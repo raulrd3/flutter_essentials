@@ -1,6 +1,6 @@
 # FreeCodeCamp Flutter Essentials Youtube Video
 
-You can find the video here:  https://youtu.be/P2IGQT3BZQo?t=4435
+You can find the video [here](https://youtu.be/P2IGQT3BZQo?t=4435)
 
 ## Getting Started
 
